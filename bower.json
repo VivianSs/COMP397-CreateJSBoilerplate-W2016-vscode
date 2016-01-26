@@ -1,0 +1,22 @@
+{
+  "name": "COMP397-CreateJSBoilerplate-W2016-vscode",
+  "homepage": "https://github.com/VivianSs/COMP397-CreateJSBoilerplate-W2016-vscode",
+  "authors": [
+    "VivianSs <vivianss0301@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}

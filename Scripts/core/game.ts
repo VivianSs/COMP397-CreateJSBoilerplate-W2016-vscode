@@ -8,6 +8,8 @@ import Student = objects.Student;
 console.log("Game Started...");
 
 
+
+
 var person: Person = new Person("Tom");
 person.speaks();
 
